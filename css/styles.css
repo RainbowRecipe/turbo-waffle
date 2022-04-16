@@ -82,10 +82,10 @@ a:hover {
 }
 
 .computer-icon {
+  margin-right:30px;
   float: left;
   width: 25%;
   border-radius: 100px;
-  padding-right: 30px;
 }
 
 .game-icon {
@@ -123,11 +123,11 @@ a:hover {
 .top-cloud {
   position: absolute;
   right: 30%;
-  top: 50px;
+  top: 100px;
 }
 .bottom-cloud {
   position: absolute;
-  left: 30%;
+  left: 23%;
   bottom: 50%;
 
 }
